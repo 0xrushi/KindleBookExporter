@@ -12,8 +12,8 @@ time.sleep(5)
 flag=0
 n=int(input("Enter pages:\n"))
 
-for i in range(6):
-    time.sleep(0.6)
+for i in range(n):
+    time.sleep(0.4)
     im = pyautogui.screenshot()
     c=get_image(im)
     c.save(str(i)+".jpg")

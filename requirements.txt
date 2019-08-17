@@ -1,0 +1,6 @@
+img2pdf
+pillow
+opencv-python
+pyautogui
+pyqt5
+tkinter

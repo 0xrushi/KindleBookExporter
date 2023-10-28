@@ -3,4 +3,4 @@ pillow
 opencv-python
 pyautogui
 pyqt5
-tkinter
+pytk
